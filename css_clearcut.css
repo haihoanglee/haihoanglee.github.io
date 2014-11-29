@@ -242,6 +242,10 @@ body{
     padding-bottom: 15px;
 }
 
+#footer .same_title i{
+    font-size: 20px;
+}
+
 #footer .same_title a{
     padding-left: 10px;
     color: #a7c353;
